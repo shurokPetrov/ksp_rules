@@ -10,9 +10,7 @@
 
 [Правила чата “Железо и ОСы”](#rules-hard-soft)
 
-[FAQ](#faq) 
 
-[Советы новичкам](#tips) 
   
 # Блок Правила
 <details>
@@ -76,18 +74,5 @@
 
 Запрещено подводить обсуждение к субъективной форме “X лучше Y” (“Android лучше Apple!”, “MacOS лучше Windows!”, “Ubuntu лучше Arch!”, и т.д.), насколько бы это не казалось вам очевидным, однако не запрещается вести аргументированный спор, если он интересует обе стороны.
 </details>
-</details>
-
-# FAQ
-<details>
-  <summary id="faq">FAQ</summary>
-  <a href="FAQ.md">FAQ</a>
-</details>
-
-
-# Советы новичкам
-<details>
-  <summary id="tips">Советы новичкам</summary>
-  <a href="tips.md">Советы</a>
 </details>
 
